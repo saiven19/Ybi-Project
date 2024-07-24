@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-## Author: Viraj N. Bhutada
+## Author: Sai Venkat K
 
 ## Project Overview
 
