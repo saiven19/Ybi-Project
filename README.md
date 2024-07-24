@@ -34,7 +34,7 @@ Enjoy your cinematic journey with Movie Match!
 
 # Customer Purchase Prediction & Micro-Numerosity Analysis
 
-## Author: Viraj N. Bhutada
+## Author: Sai Venkat K
 
 ## Project Overview
 
